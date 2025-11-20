@@ -2,5 +2,12 @@ services:
   - type: web
     name: laboratorio14-app
     env: dotnet
-    buildCommand: dotnet publish -c Release -o output
-    startCommand: dotnet output/Laboratorio14.dll
+    plan: free
+    region: ohio
+    buildCommand: dotnet restore && dotnet publish -c Release -o output
+    startCommand: cd output && ./Laboratorio14
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://0.0.0.0:10000
