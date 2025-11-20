@@ -31,3 +31,4 @@ C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\r
 C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.pdb
 C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.genruntimeconfig.cache
 C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\ref\Lab14 - Publish.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.sourcelink.json
