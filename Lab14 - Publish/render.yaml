@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: laboratorio14-app
+    env: dotnet
+    buildCommand: dotnet publish -c Release -o output
+    startCommand: dotnet output/Laboratorio14.dll
