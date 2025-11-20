@@ -1,0 +1,12 @@
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Lab14 - Publish.exe
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Lab14 - Publish.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Lab14 - Publish.deps.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Lab14 - Publish.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Lab14 - Publish.pdb
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

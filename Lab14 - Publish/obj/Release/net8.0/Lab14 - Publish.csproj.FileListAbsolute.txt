@@ -1,0 +1,33 @@
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\appsettings.Development.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\appsettings.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Lab14 - Publish.exe
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Lab14 - Publish.deps.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Lab14 - Publish.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Lab14 - Publish.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Lab14 - Publish.pdb
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets\msbuild.Lab14 - Publish.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets\msbuild.build.Lab14 - Publish.props
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab14 - Publish.props
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Lab14 - Publish.props
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\scopedcss\bundle\Lab14 - Publish.styles.css
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - .0BD45F28.Up2Date
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\refint\Lab14 - Publish.dll
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.pdb
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\Lab14 - Publish.genruntimeconfig.cache
+C:\Users\ASUS\RiderProjects\Lab14 - Publish\Lab14 - Publish\obj\Release\net8.0\ref\Lab14 - Publish.dll
