@@ -1,11 +1,6 @@
 services:
   - type: web
     name: laboratorio14-app
-    env: dotnet
     plan: free
-    region: ohio
-    buildCommand: dotnet restore && dotnet publish -c Release -o output
-    startCommand: dotnet output/Laboratorio14.dll
-    envVars:
-      - key: ASPNETCORE_ENVIRONMENT
-        value: Production
+    region: oregon
+    dockerfilePath: ./Dockerfile
