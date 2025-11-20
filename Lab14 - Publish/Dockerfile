@@ -8,3 +8,5 @@ FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "Lab14 - Publish.dll"]
+
+#nuevo
