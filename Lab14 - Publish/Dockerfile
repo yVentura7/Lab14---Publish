@@ -7,4 +7,4 @@ RUN dotnet publish -c Release -o /app/publish
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "Laboratorio14.dll"]
+ENTRYPOINT ["dotnet", "Lab14 - Publish.dll"]
