@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: laboratorio14-app
+    name: Lab14 - Publish
     plan: free
     region: oregon
     dockerfilePath: ./Dockerfile
